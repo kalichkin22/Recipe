@@ -1,0 +1,24 @@
+{
+  "name": "recipenpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "~3.2.1",
+    "jqueryui": "~1.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalichkin22/recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalichkin22/recipe/issues"
+  },
+  "homepage": "https://github.com/kalichkin22/recipe#readme"
+}
+
