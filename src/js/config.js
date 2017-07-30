@@ -1,7 +1,7 @@
 requirejs.config({
         paths: {
-            jQuery: "/RecipeNPM/node_modules/jquery/dist/jquery.min",
-            jQuery_ui: "/RecipeNPM/node_modules/jqueryui/jquery-ui.min",
+            jQuery: "/Recipe/node_modules/jquery/dist/jquery.min",
+            jQuery_ui: "/Recipe/node_modules/jqueryui/jquery-ui.min",
             createList: "../js/app/createList",
             setBoldWords: "../js/app/setBoldWords"
         }
